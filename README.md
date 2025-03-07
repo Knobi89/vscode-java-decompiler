@@ -8,7 +8,7 @@ The Java source code is available in the <https://github.com/dgileadi/dg.jdt.ls.
 
 ## Requirements
 
-[Language Support for Java&trade; by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java), version 0.12.0 or greater. This extension does not work with older versions.
+Language Support for Java™ Red Hat, version 0.12.0 or greater. This extension is incompatible with older versions.
 
 ## Extension Settings
 
